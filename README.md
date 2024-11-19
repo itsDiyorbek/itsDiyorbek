@@ -1,4 +1,4 @@
-<h1>Hi, I'm Diyorbek! <br/><a href="https://github.com/itsDiyorbek">Programmer</a>, <a href="https://www.linkedin.com/in/diyorbekq/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/itsdiyorbek">YouTuber</a></h1>
+<h1>Hi, I'm Diyorbek! <br/><a href="https://github.com/itsDiyorbek">Programmer</a>, <a href="https://www.linkedin.com/in/diyorbekq/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/itsdiyorbek">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
